@@ -1,4 +1,4 @@
-# RollOurBall_public
+# RollOurBall
 ## 概要
 「チーム開発」の練習として、友人とPRを投げ合って開発している  
 ボール転がしゲームです。  
